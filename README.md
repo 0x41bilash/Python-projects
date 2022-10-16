@@ -1,2 +1,2 @@
-# fun-Python-projects
+# Python-projects
 My space to learn Python
